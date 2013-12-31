@@ -1,0 +1,3 @@
+[submodule "php-rage4-dns"]
+	path = php-rage4-dns
+	url = https://github.com/asimzeeshan/php-rage4-dns.git
